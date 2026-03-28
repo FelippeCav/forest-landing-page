@@ -3,15 +3,15 @@
 ## 📋 About the Project
 A responsive **nature-inspired landing page**, built with **HTML5, Tailwind CSS and JavaScript**, focused on **immersive UI, animations and modern layout techniques**.
 
-The project simulates a **premium eco-tourism experience website**, featuring dynamic content, interactive sections and a strong visual identity inspired by nature.  
-It was developed as a **front-end practice project**, emphasizing **component-based styling, responsive design and user experience**.
+The project represents a **premium eco-tourism experience platform**, featuring dynamic content, interactive sections and a strong visual identity inspired by nature.  
+It highlights a complete digital experience designed to **engage users, communicate value and drive conversions**.
 
-> ⚠️ This project is for **educational and portfolio purposes only**. No commercial use intended.
+> 🌱 Designed to explore modern front-end architecture, performance and user experience best practices.
 
 ---
 
 ## 🚀 Live Demo
-👉 (add your link here after deploy)
+👉 https://felippecav.github.io/forest-landing-page/
 
 ---
 
